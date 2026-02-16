@@ -94,7 +94,7 @@
           "settings": {
             "icon": "calendar",
             "title": "30-DAY MONEY BACK GURANTEE",
-            "text": "<p>We offer a 30-day return period. Feel free to return any item within 30 days if you are not completely satisfied.</p>"
+            "text": "<p>We offer a <strong>30-day return</strong> period. Feel free to return any item within <strong>30 days</strong> if you are not completely satisfied.</p>"
           }
         },
         "text_block_NdCgmc": {
@@ -102,7 +102,7 @@
           "settings": {
             "icon": "truck",
             "title": "FREE DELIVERY",
-            "text": "<p>We offer free shipping incl. Track & Trace to the United Kingdom!</p>"
+            "text": "<p>We offer<strong> free shipping </strong>with UPS (incl. Track & Trace) within the USA.</p>"
           }
         },
         "text_block_wqnjy6": {
@@ -110,7 +110,7 @@
           "settings": {
             "icon": "shield",
             "title": "SECURE PAYMENT",
-            "text": "<p>At <strong>[SHOP NAAM]</strong>, you can securely and conveniently pay for your order using credit card.</p>"
+            "text": "<p>At <strong>ElizabethGraceCharleston</strong> you can securely and conveniently pay for your order using credit card.</p>"
           }
         }
       },
