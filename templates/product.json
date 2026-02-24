@@ -247,37 +247,20 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/MONDE_1800_x_1800_px_-_2026-02-24T114741.358.png",
+            "video_url": "",
             "controls": false,
             "stars_count": 5,
             "text": "<p>the perfect candle replacement, obsessed with the lamps!</p>",
             "author": "<p><strong>@tracer</strong></p>"
           }
         },
-        "slide_tcfxGD": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "video_url": "",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>Text</p>",
-            "author": "<p>Author</p>"
-          }
-        },
-        "slide_N8RpwN": {
-          "type": "slide",
-          "settings": {
-            "media_style": "image",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>Our kids bring them everywhere, specially when doing puzzles and drawings</p>",
-            "author": "<p><strong>@theworldisyours</strong></p>"
-          }
-        },
         "slide_kfi9Xm": {
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/ChatGPT_Image_24_feb_2026_11_55_26.png",
+            "video_url": "",
             "controls": false,
             "stars_count": 5,
             "text": "<p>This is the brand to go for lamps, love the quality and design, as always you get what you pay</p>",
@@ -288,6 +271,8 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/ChatGPT_Image_24_feb_2026_12_02_07.png",
+            "video_url": "",
             "controls": false,
             "stars_count": 5,
             "text": "<p>Love them, they give the perfect luxury touch to any room</p>",
@@ -298,6 +283,8 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "image": "shopify://shop_images/ChatGPT_Image_24_feb_2026_12_08_36.png",
+            "video_url": "",
             "controls": false,
             "stars_count": 5,
             "text": "<p>The cordless lamp you've been looking for!</p>",
@@ -308,6 +295,7 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "video_url": "",
             "controls": false,
             "stars_count": 5,
             "text": "<p>All my friends want them too now, at least I was the first one to get them..!</p>",
@@ -318,6 +306,7 @@
           "type": "slide",
           "settings": {
             "media_style": "image",
+            "video_url": "",
             "controls": false,
             "stars_count": 5,
             "text": "<p>I use it every day early in the morning and on our dining table, it is do convenient and cool</p>",
@@ -327,8 +316,6 @@
       },
       "block_order": [
         "slide_DFjb8a",
-        "slide_tcfxGD",
-        "slide_N8RpwN",
         "slide_kfi9Xm",
         "slide_zwRfJe",
         "slide_B4PBmN",
@@ -411,21 +398,21 @@
         "dots_show_mobile": true,
         "btn_icon_size": 50,
         "btn_icon_size_mobile": 40,
-        "card_bg_color": "#FFFFFF",
+        "card_bg_color": "#ffffff",
         "card_bg_gradient": "",
-        "card_border_color": "#DEDBC4",
+        "card_border_color": "#dedbc4",
         "media_border_color": "#121212",
         "stars_color": "#323232",
         "text_color": "#323232",
         "author_color": "#323232",
-        "video_icon_bg_color": "#FFFFFF",
+        "video_icon_bg_color": "#ffffff",
         "video_icon_color": "#121212",
         "arrow_color": "#837c5c",
         "arrow_hover_color": "#837c5c",
         "dots_color": "#837c5c",
         "heading_color": "#837c5c",
         "sub_heading_color": "#837c5c",
-        "background_color": "#F6F5F2",
+        "background_color": "#f6f5f2",
         "background_gradient": "",
         "border_color": "#121212",
         "margin_top": 0,
@@ -774,7 +761,7 @@
         "image_raTfgL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/i_want_you_to_make_this_pictur_Nano_Banana_41846.jpg",
+            "image": "shopify://shop_images/MONDE_1800_x_1800_px_-_2026-02-24T114642.754.png",
             "link": "",
             "width": "50%",
             "alignment": "center"
