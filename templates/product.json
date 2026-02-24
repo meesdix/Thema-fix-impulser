@@ -293,6 +293,7 @@
         },
         "slide_NWkHDR": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "media_style": "image",
             "video_url": "",
@@ -304,6 +305,7 @@
         },
         "slide_ixCFLh": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "media_style": "image",
             "video_url": "",
