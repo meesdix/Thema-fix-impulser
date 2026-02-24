@@ -544,15 +544,17 @@
       "name": "Testimonial Grid",
       "settings": {}
     },
-    "text_and_image_yNYQNN": {
+    "text_and_image_GjmFnN": {
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image_mask": "none",
+        "image": "shopify://shop_images/ChatGPT_Image_23_feb_2026_14_59_41.png",
+        "image_mask": "portrait",
+        "image2": "shopify://shop_images/ChatGPT_Image_23_feb_2026_15_09_16.png",
         "image2_mask": "none",
         "subtitle": "",
-        "title": "Meet Pieter & Lisa",
-        "text": "<p>At <strong>Lisa & Peter London</strong>, everything starts with <strong>passion for fashion</strong>. From a young age, Pieter and Lisa shared a lifelong love for style and creativity. Both studied <strong>Fashion Design and Business</strong> before building their careers in the industry. After working for different companies, they came together as a couple and decided to create something of their own.</p><p>Now, more than <strong>10 years later</strong>, they run their store with countless happy clients and inspiring projects. Their mission has always been clear: to stay ahead of <strong>new trends</strong>, deliver <strong>high-quality pieces</strong>, and offer a truly <strong>personal approach</strong>. For Pieter and Lisa, it’s about more than fashion — it’s about making every customer feel seen, valued, and stylish in their own unique way.</p>",
+        "title": "Catherine & Emily",
+        "text": "<p>Our journey with <strong>About You Boutique began with a simple belief: to create something meaningful.</strong></p><p>Whether you are a mother, a grandmother, a partner, a daughter, or simply a woman balancing it all — life has a way of putting everyone else first.</p><p>Over time, we saw how easily confidence moves to the background.</p><p><strong>That realization became our purpose.</strong></p><p>Instead of closing a chapter, we chose to create a moment — a chance to reconnect with the woman you are beyond the roles you carry every day.</p><p>We are now holding a <strong>Rediscovery Sale.</strong></p><p><strong>A celebration of choosing yourself again.</strong></p>",
         "button_label": "",
         "button_link": "",
         "button_style": "primary",
@@ -571,6 +573,7 @@
         "image_raTfgL": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/i_want_you_to_make_this_pictur_Nano_Banana_41846.jpg",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -579,7 +582,7 @@
         "liquid_yeGTF4": {
           "type": "liquid",
           "settings": {
-            "code": "<h2>Money-Back Guarantee</h2>\n<p>\n  I truly believe in the quality of our clothing – and I’m confident you’ll love it too. \n  That’s why we offer a hassle-free 30-day money-back guarantee.\n</p>\n<p>\n  If you’re not completely satisfied with your purchase, simply return it within 30 days \n  and receive a full refund – no questions asked.\n</p>",
+            "code": "<h2>Our 30-Day Promise</h2>\n<p>\n  Your confidence matters to us. Every purchase is backed by our 30-day satisfaction guarantee.\n</p>\n<p>\n  If you’re not fully satisfied, simply return your item within 30 days for a complete refund.\n</p>",
             "width": "50%",
             "alignment": "center"
           }
@@ -819,7 +822,7 @@
     "advanced_content_WwcBt8",
     "videosglider_UKWUBw",
     "testimonials_slider_dKBxHe",
-    "text_and_image_yNYQNN",
+    "text_and_image_GjmFnN",
     "advanced_content_rQtHGM",
     "sub",
     "product-recommendations",
