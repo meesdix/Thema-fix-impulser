@@ -86,38 +86,38 @@
         "enable_sort": true
       }
     },
-    "text_with_icons_4EAKzc": {
+    "text_with_icons_FX4gzm": {
       "type": "text-with-icons",
       "blocks": {
-        "text_block_TmDHLD": {
+        "text_block_4kfG8P": {
           "type": "text_block",
           "settings": {
             "icon": "calendar",
-            "title": "30-DAY MONEY BACK GURANTEE",
+            "title": "30-DAY MONEY-BACK GUARANTEE",
             "text": "<p>We offer a <strong>30-day return</strong> period. Feel free to return any item within <strong>30 days</strong> if you are not completely satisfied.</p>"
           }
         },
-        "text_block_NdCgmc": {
+        "text_block_MbHzaU": {
           "type": "text_block",
           "settings": {
             "icon": "truck",
             "title": "FREE DELIVERY",
-            "text": "<p>We offer<strong> free shipping </strong>with UPS (incl. Track & Trace) within the USA.</p>"
+            "text": "<p>We offer <strong>Free Premium Shipping</strong> incl. Track & Trace to the United States!</p>"
           }
         },
-        "text_block_wqnjy6": {
+        "text_block_ztBam6": {
           "type": "text_block",
           "settings": {
             "icon": "shield",
             "title": "SECURE PAYMENT",
-            "text": "<p>At <strong>ElizabethGraceCharleston</strong> you can securely and conveniently pay for your order using credit card.</p>"
+            "text": "<p>At <strong>AboutYouBoutique</strong>, you can securely and conveniently pay for your order using credit card.</p>"
           }
         }
       },
       "block_order": [
-        "text_block_TmDHLD",
-        "text_block_NdCgmc",
-        "text_block_wqnjy6"
+        "text_block_4kfG8P",
+        "text_block_MbHzaU",
+        "text_block_ztBam6"
       ],
       "settings": {
         "title": "",
@@ -134,6 +134,6 @@
     "collection-header",
     "advanced_content_BbR9k6",
     "main-collection",
-    "text_with_icons_4EAKzc"
+    "text_with_icons_FX4gzm"
   ]
 }
