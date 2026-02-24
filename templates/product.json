@@ -98,7 +98,7 @@
         "ea05bd8c-ce3b-4efc-9331-8543471e68d9": {
           "type": "custom",
           "settings": {
-            "code": "<div class=\"product-block\">\n  <div class=\"stock-update\">\n    <p style=\"background-color: #f9ece9; padding: 15px; border-radius: 5px; color: #b04135; font-size: 13px;\">\n      <strong>REDISCOVERY SALE UPDATE:</strong> Our Rediscovery Sale is going incredibly fast. Due to high demand, several pieces are close to selling out and may not be restocked.\n    </p>\n  </div>\n</div>"
+            "code": "<div class=\"product-block\">\n  <div class=\"stock-update\">\n    <p style=\"background-color: #f9ece9; padding: 15px; border-radius: 5px; color: #b04135; font-size: 13px;\">\n      <strong>REDISCOVERY SALE UPDATE:</strong> Our Rediscovery Sale is selling quickly. Popular pieces are starting to sell out.\n    </p>\n  </div>\n</div>"
           }
         },
         "description": {
