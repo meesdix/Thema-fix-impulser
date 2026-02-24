@@ -231,12 +231,213 @@
         "testimonial_CKjU44",
         "testimonial_VTwX68"
       ],
+      "disabled": true,
       "settings": {
-        "title": "What customers have to say about Lisa & Peter London",
+        "title": "What Women Are Saying",
         "align_text": "center",
         "round_images": true,
         "color_background": "#ffffff",
         "color_text": "#1c1d1d"
+      }
+    },
+    "ss_testimonial_12_bTzfJ4": {
+      "type": "ss-testimonial-12",
+      "blocks": {
+        "slide_DFjb8a": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>the perfect candle replacement, obsessed with the lamps!</p>",
+            "author": "<p><strong>@tracer</strong></p>"
+          }
+        },
+        "slide_tcfxGD": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "video_url": "",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Text</p>",
+            "author": "<p>Author</p>"
+          }
+        },
+        "slide_N8RpwN": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Our kids bring them everywhere, specially when doing puzzles and drawings</p>",
+            "author": "<p><strong>@theworldisyours</strong></p>"
+          }
+        },
+        "slide_kfi9Xm": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>This is the brand to go for lamps, love the quality and design, as always you get what you pay</p>",
+            "author": "<p><strong>@niels_homes</strong></p>"
+          }
+        },
+        "slide_zwRfJe": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>Love them, they give the perfect luxury touch to any room</p>",
+            "author": "<p><strong>@allfinds</strong></p>"
+          }
+        },
+        "slide_B4PBmN": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>The cordless lamp you've been looking for!</p>",
+            "author": "<p><strong>@lacey</strong></p>"
+          }
+        },
+        "slide_NWkHDR": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>All my friends want them too now, at least I was the first one to get them..!</p>",
+            "author": "<p><strong>@mcqueen</strong></p>"
+          }
+        },
+        "slide_ixCFLh": {
+          "type": "slide",
+          "settings": {
+            "media_style": "image",
+            "controls": false,
+            "stars_count": 5,
+            "text": "<p>I use it every day early in the morning and on our dining table, it is do convenient and cool</p>",
+            "author": "<p><strong>@dwithpatty</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_DFjb8a",
+        "slide_tcfxGD",
+        "slide_N8RpwN",
+        "slide_kfi9Xm",
+        "slide_zwRfJe",
+        "slide_B4PBmN",
+        "slide_NWkHDR",
+        "slide_ixCFLh"
+      ],
+      "name": "SS - Testimonials #12",
+      "settings": {
+        "heading": "<h2>Loved by everyone, everywhere. Don't miss out.</h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 30,
+        "heading_size_mobile": 22,
+        "heading_height": 130,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "sub_heading": "",
+        "sub_heading_custom": false,
+        "sub_heading_font": "josefin_sans_n4",
+        "sub_heading_size": 30,
+        "sub_heading_size_mobile": 22,
+        "sub_heading_height": 150,
+        "sub_heading_mt": 12,
+        "sub_heading_align": "center",
+        "sub_heading_align_mobile": "center",
+        "slider_view": 4,
+        "slider_view_mobile": 1.3,
+        "slider_gap": 28,
+        "slider_gap_mobile": 20,
+        "slider_mt": 20,
+        "autoplay": false,
+        "autoplay_delay": 5,
+        "card_padding_vertical": 20,
+        "card_padding_vertical_mobile": 16,
+        "card_padding_horizontal": 20,
+        "card_padding_horizontal_mobile": 16,
+        "card_radius": 20,
+        "card_border_thickness": 1,
+        "card_shadow": false,
+        "media_radius": 20,
+        "media_border_thickness": 0,
+        "media_ratio": "square",
+        "media_ratio_mobile": "square",
+        "content_padding_vertical": 0,
+        "content_padding_vertical_mobile": 0,
+        "content_padding_horizontal": 0,
+        "content_padding_horizontal_mobile": 0,
+        "hide_content": false,
+        "stars_size": 16,
+        "stars_mt": 12,
+        "stars_align": "center",
+        "stars_align_mobile": "center",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_mt": 12,
+        "text_align": "center",
+        "text_align_mobile": "center",
+        "author_custom": false,
+        "author_font": "josefin_sans_n4",
+        "author_size": 14,
+        "author_size_mobile": 14,
+        "author_height": 130,
+        "author_mt": 12,
+        "author_align": "center",
+        "author_align_mobile": "center",
+        "navigation_mt": 40,
+        "navigation_gap": 20,
+        "navigation_align": "center",
+        "navigation_align_mobile": "center",
+        "arrow_size": 50,
+        "arrow_size_mobile": 50,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 10,
+        "dots_size_mobile": 10,
+        "dots_show_desktop": false,
+        "dots_show_mobile": true,
+        "btn_icon_size": 50,
+        "btn_icon_size_mobile": 40,
+        "card_bg_color": "#FFFFFF",
+        "card_bg_gradient": "",
+        "card_border_color": "#DEDBC4",
+        "media_border_color": "#121212",
+        "stars_color": "#323232",
+        "text_color": "#323232",
+        "author_color": "#323232",
+        "video_icon_bg_color": "#FFFFFF",
+        "video_icon_color": "#121212",
+        "arrow_color": "#837c5c",
+        "arrow_hover_color": "#837c5c",
+        "dots_color": "#837c5c",
+        "heading_color": "#837c5c",
+        "sub_heading_color": "#837c5c",
+        "background_color": "#F6F5F2",
+        "background_gradient": "",
+        "border_color": "#121212",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 1200,
+        "border_thickness": 0,
+        "lazy": true
       }
     },
     "featured_collection_zRnJ6y": {
@@ -743,7 +944,7 @@
           "settings": {
             "icon": "truck",
             "title": "FREE DELIVERY",
-            "text": "<p>We offer <strong>free shipping</strong> incl. Track & Trace to the United Kingdom!</p>"
+            "text": "<p>We offer <strong>free premium shipping</strong> incl. Track & Trace to the United States!</p>"
           }
         },
         "text_block_pgeXmX": {
@@ -751,7 +952,7 @@
           "settings": {
             "icon": "shield",
             "title": "SECURE PAYMENT",
-            "text": "<p>At <strong>Lisa & Peter London</strong>, you can securely and conveniently pay for your order using credit card.</p>"
+            "text": "<p>At <strong>AboutYouBoutique</strong>, you can securely and conveniently pay for your order using credit card.</p>"
           }
         }
       },
@@ -818,6 +1019,7 @@
     "timer_bar_7fPWPb",
     "main",
     "testimonials_EpAxJf",
+    "ss_testimonial_12_bTzfJ4",
     "featured_collection_zRnJ6y",
     "advanced_content_WwcBt8",
     "videosglider_UKWUBw",
