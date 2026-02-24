@@ -251,8 +251,8 @@
             "video_url": "",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>the perfect candle replacement, obsessed with the lamps!</p>",
-            "author": "<p><strong>@tracer</strong></p>"
+            "text": "<p>“I haven’t bought clothes just for me in years. This sale changed that.”</p>",
+            "author": "<p><strong>Denise Carter</strong></p>"
           }
         },
         "slide_kfi9Xm": {
@@ -263,8 +263,8 @@
             "video_url": "",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>This is the brand to go for lamps, love the quality and design, as always you get what you pay</p>",
-            "author": "<p><strong>@niels_homes</strong></p>"
+            "text": "<p>“My husband said I looked radiant.”</p>",
+            "author": "<p><strong>Linda Thompson</strong></p>"
           }
         },
         "slide_zwRfJe": {
@@ -275,8 +275,8 @@
             "video_url": "",
             "controls": false,
             "stars_count": 5,
-            "text": "<p>Love them, they give the perfect luxury touch to any room</p>",
-            "author": "<p><strong>@allfinds</strong></p>"
+            "text": "<p>“The quality surprised me — especially at the sale price.”</p>",
+            "author": "<p><strong>Carol Bennett</strong></p>"
           }
         },
         "slide_B4PBmN": {
@@ -290,39 +290,13 @@
             "text": "<p>“I haven’t felt this confident in years.”</p>",
             "author": "<p><strong>Karen Mitchell</strong></p>"
           }
-        },
-        "slide_NWkHDR": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "media_style": "image",
-            "video_url": "",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>All my friends want them too now, at least I was the first one to get them..!</p>",
-            "author": "<p><strong>@mcqueen</strong></p>"
-          }
-        },
-        "slide_ixCFLh": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "media_style": "image",
-            "video_url": "",
-            "controls": false,
-            "stars_count": 5,
-            "text": "<p>I use it every day early in the morning and on our dining table, it is do convenient and cool</p>",
-            "author": "<p><strong>@dwithpatty</strong></p>"
-          }
         }
       },
       "block_order": [
         "slide_DFjb8a",
         "slide_kfi9Xm",
         "slide_zwRfJe",
-        "slide_B4PBmN",
-        "slide_NWkHDR",
-        "slide_ixCFLh"
+        "slide_B4PBmN"
       ],
       "name": "SS - Testimonials #12",
       "settings": {
