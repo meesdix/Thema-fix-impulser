@@ -15,11 +15,11 @@
         "slideshow-0": {
           "type": "image",
           "settings": {
-            "top_subheading": "Rediscovery Sale",
-            "title": "For the woman you’ve always been.\nAnd the woman you’re becoming.",
+            "top_subheading": "",
+            "title": "Rediscovery Sale – Up to 70% Off",
             "title_size": 40,
-            "subheading": "Up to 70% off selected pieces.",
-            "link": "shopify://collections",
+            "subheading": "For the woman you’ve always been.",
+            "link": "shopify://collections/frontpage",
             "link_text": "Shop Now",
             "link_2": "shopify://collections/herr",
             "link_text_2": "",
