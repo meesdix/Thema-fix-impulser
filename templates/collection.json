@@ -18,6 +18,37 @@
         "parallax_direction": "top"
       }
     },
+    "advanced_content_BbR9k6": {
+      "type": "advanced-content",
+      "blocks": {
+        "image_MkejPW": {
+          "type": "image",
+          "settings": {
+            "link": "",
+            "width": "50%",
+            "alignment": "center"
+          }
+        },
+        "liquid_waP6ag": {
+          "type": "liquid",
+          "settings": {
+            "code": "<div style=\"text-align:center; max-width:700px; margin:0 auto 40px; line-height:1.6;\">\n\n  <h2 style=\"letter-spacing:0.12em; font-size:22px; margin-bottom:10px; font-weight:bold;\">\n    IT’S TIME FOR YOU AGAIN\n  </h2>\n\n  <p style=\"font-weight:bold; margin-bottom:18px;\">\n    After years of putting everyone else first, we felt it was time to create something meaningful.\n  </p>\n\n  <p style=\"margin-bottom:12px;\">\n    Between family, responsibilities, and the quiet demands of everyday life… \n    it becomes easy to place yourself last.\n  </p>\n\n  <p style=\"margin-bottom:12px;\">\n    We’ve seen it in the women who walk through our doors.<br>\n    And we’ve felt it in our own lives.\n  </p>\n\n  <p style=\"margin-bottom:12px;\">\n    This boutique was never just about clothing.<br>\n    It was always about confidence — and coming back to yourself.\n  </p>\n\n  <p style=\"margin-bottom:18px; font-size:18px;\">❤️</p>\n\n  <p style=\"margin-bottom:10px;\">\n    To celebrate this moment, please enjoy our Rediscovery Sale Savings:\n  </p>\n\n  <p style=\"margin:0;\">\n    <b>Buy 2 &amp; Save 10%</b><br>\n    <b>Buy 3 &amp; Save 15%</b><br>\n    <b>Buy 4 &amp; Save 20%</b><br>\n    <b>Buy 5 &amp; Save 25%</b>\n  </p>\n\n  <p style=\"margin-top:12px; font-size:13px;\">\n    Discounts apply automatically at checkout.\n  </p>\n\n  <p style=\"margin-top:22px; margin-bottom:0;\">\n    With love,<br>\n    <b>About You Boutique</b>\n  </p>\n\n</div>",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "image_MkejPW",
+        "liquid_waP6ag"
+      ],
+      "name": "t:sections.advanced-content.presets.custom_content.name",
+      "settings": {
+        "full_width": false,
+        "space_around": true,
+        "lazyload_images": true
+      }
+    },
     "main-collection": {
       "type": "main-collection",
       "blocks": {
@@ -52,38 +83,6 @@
         "filter_style": "sidebar",
         "enable_color_swatches": false,
         "enable_sort": true
-      }
-    },
-    "advanced_content_BbR9k6": {
-      "type": "advanced-content",
-      "blocks": {
-        "image_MkejPW": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_Jan_12_2026_03_21_49_PM.png",
-            "link": "",
-            "width": "50%",
-            "alignment": "center"
-          }
-        },
-        "liquid_waP6ag": {
-          "type": "liquid",
-          "settings": {
-            "code": "<div style=\"text-align:center; max-width:700px; margin:0 auto 40px; line-height:1.6;\">\n\n  <h2 style=\"letter-spacing:0.12em; font-size:22px; margin-bottom:10px; font-weight:bold;\">\n    CLOSING THIS CHAPTER\n  </h2>\n\n  <p style=\"font-weight:bold; margin-bottom:18px;\">\n    After pouring my heart into this dream, I’ve made the painful decision to close the store.\n  </p>\n\n  <p style=\"margin-bottom:12px;\">\n    Life changed in ways I never expected… and suddenly everything felt heavier than I could carry alone.\n  </p>\n\n  <p style=\"margin-bottom:12px;\">\n    When my husband chose to leave, I tried to stay strong and keep this dream alive.<br>\n    But I’ve reached a point where I simply can’t continue on my own.\n  </p>\n\n  <p style=\"margin-bottom:12px;\">\n    And <b>you</b> are the reason this journey meant so much.<br>\n    Your support carried me further than you will ever know.\n  </p>\n\n  <p style=\"margin-bottom:18px; font-size:18px;\">❤️</p>\n\n  <p style=\"margin-bottom:10px;\">\n    As a final thank-you, please enjoy our Closure Sale Savings:\n  </p>\n\n  <p style=\"margin:0;\">\n    <b>Buy 2 &amp; Save 10%</b><br>\n    <b>Buy 3 &amp; Save 15%</b><br>\n    <b>Buy 4 &amp; Save 20%</b><br>\n    <b>Buy 5 &amp; Save 25%</b>\n  </p>\n\n  <p style=\"margin-top:12px; font-size:13px;\">\n    Discounts apply automatically at checkout.\n  </p>\n\n  <p style=\"margin-top:22px; margin-bottom:0;\">\n    With love,<br>\n    <b>elizabethgracecharleston</b>\n  </p>\n\n</div>",
-            "width": "50%",
-            "alignment": "center"
-          }
-        }
-      },
-      "block_order": [
-        "image_MkejPW",
-        "liquid_waP6ag"
-      ],
-      "name": "t:sections.advanced-content.presets.custom_content.name",
-      "settings": {
-        "full_width": false,
-        "space_around": true,
-        "lazyload_images": true
       }
     },
     "text_with_icons_4EAKzc": {
@@ -132,8 +131,8 @@
   },
   "order": [
     "collection-header",
-    "main-collection",
     "advanced_content_BbR9k6",
+    "main-collection",
     "text_with_icons_4EAKzc"
   ]
 }
