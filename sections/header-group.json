@@ -116,7 +116,7 @@
         "header-0": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/ElizabethGrace_9.png",
+            "logo": "shopify://shop_images/ElizabethGrace.png",
             "desktop_logo_width": 310,
             "mobile_logo_width": 200
           }
@@ -126,7 +126,7 @@
         "header-0"
       ],
       "settings": {
-        "main_menu_link_list": "hoofd",
+        "main_menu_link_list": "",
         "hover_menu": true,
         "mega_menu_images": true,
         "main_menu_alignment": "center",
