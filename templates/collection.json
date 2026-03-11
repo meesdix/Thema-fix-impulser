@@ -24,7 +24,7 @@
         "image_MkejPW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_24_feb_2026_11_22_44.png",
+            "image": "shopify://shop_images/ChatGPT_Image_11_mrt_2026_14_23_16.png",
             "link": "",
             "width": "50%",
             "alignment": "center"
@@ -33,7 +33,7 @@
         "liquid_waP6ag": {
           "type": "liquid",
           "settings": {
-            "code": "<div style=\"text-align:center; max-width:700px; margin:0 auto 40px; line-height:1.6;\">\n\n  <h2 style=\"letter-spacing:0.12em; font-size:22px; margin-bottom:10px; font-weight:bold;\">\n    IT’S TIME FOR YOU AGAIN\n  </h2>\n\n  <p style=\"font-weight:bold; margin-bottom:18px;\">\n    After years of putting everyone else first, we felt it was time to create something meaningful.\n  </p>\n\n  <p style=\"margin-bottom:12px;\">\n    Between family, responsibilities, and the quiet demands of everyday life… \n    it becomes easy to place yourself last.\n  </p>\n\n  <p style=\"margin-bottom:12px;\">\n    We’ve seen it in the women who walk through our doors.<br>\n    And we’ve felt it in our own lives.\n  </p>\n\n  <p style=\"margin-bottom:12px;\">\n    This boutique was never just about clothing.<br>\n    It was always about confidence — and coming back to yourself.\n  </p>\n\n  <p style=\"margin-bottom:18px; font-size:18px;\">❤️</p>\n\n  <p style=\"margin-bottom:10px;\">\n    To celebrate this moment, please enjoy our Rediscovery Sale Savings:\n  </p>\n\n  <p style=\"margin:0;\">\n    <b>Buy 2 &amp; Save 10%</b><br>\n    <b>Buy 3 &amp; Save 15%</b><br>\n    <b>Buy 4 &amp; Save 20%</b><br>\n    <b>Buy 5 &amp; Save 25%</b>\n  </p>\n\n  <p style=\"margin-top:12px; font-size:13px;\">\n    Discounts apply automatically at checkout.\n  </p>\n\n  <p style=\"margin-top:22px; margin-bottom:0;\">\n    With love,<br>\n    <b>About You Boutique</b>\n  </p>\n\n</div>",
+            "code": "<div style=\"text-align:center; max-width:700px; margin:0 auto 40px; line-height:1.6;\">\n\n  <h2 style=\"letter-spacing:0.12em; font-size:22px; margin-bottom:10px; font-weight:bold;\">\n    AFTER 30 WONDERFUL YEARS\n  </h2>\n\n  <p style=\"font-weight:bold; margin-bottom:18px;\">\n    Our little clothing shop has been part of our lives for more than three decades.\n  </p>\n\n  <p style=\"margin-bottom:12px;\">\n    Over the years we've had the joy of helping thousands of wonderful women feel confident in what they wear.\n  </p>\n\n  <p style=\"margin-bottom:12px;\">\n    But now our children are grown, and we've decided it's finally time for a new adventure together.\n  </p>\n\n  <p style=\"margin-bottom:12px;\">\n    We’ve always dreamed of traveling the world — and now the time has come to begin that journey.\n  </p>\n\n  <p style=\"margin-bottom:18px; font-size:18px;\">❤️</p>\n\n  <p style=\"margin-bottom:10px;\">\n    To thank you for supporting our shop all these years, we're holding a special <b>Retirement Sale</b>:\n  </p>\n\n  <p style=\"margin:0;\">\n    <b>Buy 2 &amp; Save 10%</b><br>\n    <b>Buy 3 &amp; Save 15%</b><br>\n    <b>Buy 4 &amp; Save 20%</b><br>\n    <b>Buy 5 &amp; Save 25%</b>\n  </p>\n\n  <p style=\"margin-top:12px; font-size:13px;\">\n    Discounts apply automatically at checkout.\n  </p>\n\n  <p style=\"margin-top:22px; margin-bottom:0;\">\n    With love,<br>\n    <b>Tom &amp; Linda</b>\n  </p>\n\n</div>",
             "width": "50%",
             "alignment": "center"
           }
