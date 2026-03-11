@@ -16,7 +16,7 @@
           "type": "image",
           "settings": {
             "top_subheading": "",
-            "title": "Rediscovery Sale – Up to 70% Off",
+            "title": "",
             "title_size": 40,
             "subheading": "For the woman you’ve always been.",
             "link": "shopify://collections/frontpage",
@@ -25,9 +25,10 @@
             "link_text_2": "",
             "color_accent": "#000000",
             "text_align": "vertical-center horizontal-center",
-            "image": "shopify://shop_images/i_want_you_to_make_this_pictur_Nano_Banana_41846.jpg",
-            "parallax_direction": "top",
-            "overlay_opacity": 10
+            "image": "shopify://shop_images/ChatGPT_Image_11_mrt_2026_14_38_43.png",
+            "image_mobile": "shopify://shop_images/ChatGPT_Image_11_mrt_2026_14_28_02.png",
+            "parallax_direction": "left",
+            "overlay_opacity": 0
           }
         }
       },
@@ -35,10 +36,10 @@
         "slideshow-0"
       ],
       "settings": {
-        "section_height": "450px",
+        "section_height": "natural",
         "mobile_height": "auto",
         "parallax": false,
-        "style": "bars",
+        "style": "minimal",
         "autoplay": false,
         "autoplay_speed": 7,
         "lazyload_images": true
@@ -48,9 +49,9 @@
       "type": "text-and-image",
       "name": "t:sections.text-and-image.presets.image_with_text.name",
       "settings": {
-        "image": "shopify://shop_images/ChatGPT_Image_23_feb_2026_14_59_41.png",
-        "image_mask": "portrait",
-        "image2": "shopify://shop_images/ChatGPT_Image_23_feb_2026_15_09_16.png",
+        "image": "shopify://shop_images/ChatGPT_Image_11_mrt_2026_13_59_24.png",
+        "image_mask": "square",
+        "image2": "shopify://shop_images/ChatGPT_Image_11_mrt_2026_14_32_04.png",
         "image2_mask": "none",
         "subtitle": "",
         "title": "Catherine & Emily",
