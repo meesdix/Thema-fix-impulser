@@ -56,7 +56,7 @@
     "button_style": "round-slight",
     "icon_weight": "3px",
     "icon_linecaps": "miter",
-    "product_save_amount": true,
+    "product_save_amount": false,
     "product_save_type": "percent",
     "quick_shop_enable": false,
     "quick_shop_text": "Quick view",
